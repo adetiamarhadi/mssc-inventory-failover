@@ -5,3 +5,7 @@ spring:
     baseUrl: http://localhost:9411/
 server:
   port: 8083
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://netflix:eureka@localhost:8761/eureka
