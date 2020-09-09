@@ -10,7 +10,7 @@
 
 	<groupId>com.github.adetiamarhadi</groupId>
 	<artifactId>mssc-inventory-failover</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>MSSC Inventory Failover</description>
@@ -36,7 +36,7 @@
 		<connection>scm:git:git://github.com/adetiamarhadi/mssc-inventory-failover.git</connection>
 		<developerConnection>scm:git:git://github.com:adetiamarhadi/mssc-inventory-failover.git</developerConnection>
 		<url>https://github.com/adetiamarhadi/mssc-inventory-failover/tree/master</url>
-	  <tag>mssc-inventory-failover-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<distributionManagement>
